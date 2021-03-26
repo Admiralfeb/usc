@@ -1,0 +1,12 @@
+[submodule "usc-website"]
+	path = usc-website
+	url = https://github.com/Admiralfeb/usc-website.git
+[submodule "usc-website-legacy"]
+	path = usc-website-legacy
+	url = https://github.com/Admiralfeb/usc-website-legacy.git
+[submodule "ed-massacre-finder"]
+	path = ed-massacre-finder
+	url = https://github.com/Admiralfeb/ed-massacre-finder.git
+[submodule "usc-discord-galnet"]
+	path = usc-discord-galnet
+	url = https://github.com/Admiralfeb/usc-discord-galnet.git
