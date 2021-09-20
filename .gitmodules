@@ -10,3 +10,6 @@
 [submodule "usc-discord-galnet"]
 	path = usc-discord-galnet
 	url = https://github.com/Admiralfeb/usc-discord-galnet.git
+[submodule "usc-discord-bot"]
+	path = usc-discord-bot
+	url = https://github.com/Admiralfeb/usc-discord-bot.git
